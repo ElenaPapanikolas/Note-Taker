@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "This is a test note",
+    "text": "Hi, this is a test :)",
+    "id": "55ae1105-49ae-48dc-a3dc-17ca946c5949"
+  },
+  {
+    "title": "Take out garbage",
+    "text": "Today",
+    "id": "f71c0a47-6d96-425c-ba96-48bb433c53b7"
+  },
+  {
+    "title": "Wash car",
+    "text": "Tomorrow",
+    "id": "34120caa-a010-4854-a083-b2cf77088234"
+  },
+  {
+    "title": "Do the dishes",
+    "text": "Tonight",
+    "id": "3e7ec9b1-3c1d-44c3-8860-a5b14a872db5"
+  },
+  {
+    "title": "Do laundry",
+    "text": "Tomorrow",
+    "id": "0943d402-6e59-4ec7-9e24-5d2e9cc61004"
+  },
+  {
+    "title": "Make eye appointment",
+    "text": "Wednesday",
+    "id": "5b3e90a7-e54b-4418-a896-a71faad41645"
+  },
+  {
+    "title": "Bike ride",
+    "text": "Tonight",
+    "id": "f8dafc34-fba6-4730-8719-11f10cc6f5cc"
+  }
+]
